@@ -54,7 +54,7 @@ Screenshot 2020-09-25 at 11.45.55 PM.png
 <img src="Screenshot 2020-09-25 at 11.45.55 PM.png" alt="The mount" width="400">
 
 ### Reflection
-I learned how to 
+Following a video made it really easy to construct the mount with little problems. This part felt pretty easy, as it was similar to the base, part 1, that I just created. 
 ---
 
 
@@ -65,9 +65,9 @@ This is the third part of the caster. The main circle is
 ### Evidence
 https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/a16229fab723fbe562faf769
 ### Image
-
+In Part 3 I learned how to fillet and chamferfor a smoother edge, and mirror for easy copy and pasting.
 ### Reflection
-I learned how to mirror and fillet
+
 ---
 
 
