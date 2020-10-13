@@ -66,6 +66,9 @@ This is the third part of the caster. The main circle is
 https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/a16229fab723fbe562faf769
 ### Image
 ![Part 3 fork screenshot](Images/Part 3 fork screenshot.png)
+
+<img src"Images/Part 3 fork screenshot" alt="The Fork" width="150">
+
 ### Reflection
 In Part 3 I learned how to fillet and chamferfor a smoother edge, and mirror for easy copy and pasting.
 
