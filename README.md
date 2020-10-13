@@ -50,13 +50,14 @@ The mount is the second part of the caster. The mounts dimensions are 120 mm by 
 https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/320003b5696eeab62fece36c
 ### Image
 
-Screenshot 2020-09-25 at 11.45.55 PM.png
-<img src="Screenshot 2020-09-25 at 11.45.55 PM.png" alt="The mount" width="400">
+![Part 2 mount](Images/mount%20part%202%20screenshot.png)
+
+mount part 2 screenshot.png
 
 ### Reflection
 Following a video made it really easy to construct the mount with little problems. This part felt pretty easy, as it was similar to the base, part 1, that I just created. 
----
 
+---
 
 ## Fork
 
@@ -70,7 +71,7 @@ https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d021661599
 
 
 ### Reflection
-In Part 3 I learned how to fillet and chamferfor a smoother edge, and mirror for easy copy and pasting.
+In Part 3 I learned how to fillet and chamfer for a smoother edge, and mirror for easy copy and pasting. I got more familiar with extruding. 
 
 ---
 
