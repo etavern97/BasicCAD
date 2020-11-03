@@ -79,9 +79,9 @@ In Part 3 I learned how to fillet and chamfer for a smoother edge, and mirror fo
 ## Tire
 
 ### Description
-
+Part 4 is the tire, which goes over the wheel on the caster. 
 ### Evidence
-
+https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/659d4a3cbdc291ae85c779dd
 ### Image
 ![Part 4 Tire](Images/Part4TireScreenshot.png)
 
