@@ -83,8 +83,10 @@ In Part 3 I learned how to fillet and chamfer for a smoother edge, and mirror fo
 ### Evidence
 
 ### Image
+![Part 4 Tire](Images/Part4TireScreenshot.png)
 
 ### Reflection
+WIth this project, I learned some dimensioning tricks, such as how to dimension an angle and diameter. I also practiced revolving a sketch.
 
 ---
 
