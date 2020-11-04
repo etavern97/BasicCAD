@@ -86,7 +86,7 @@ https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d021661599
 ![Part 4 Tire](Images/Part4TireScreenshot.png)
 
 ### Reflection
-WIth this project, I learned some dimensioning tricks, such as how to dimension an angle and diameter. I also practiced revolving a sketch.
+WIth this project, I learned some dimensioning tricks, such as how to dimension an angle and diameter. I also practiced revolving a sketch.I practiced filleting, revolving, and circular patterns.
 
 ---
 
@@ -94,7 +94,7 @@ WIth this project, I learned some dimensioning tricks, such as how to dimension 
 ## Wheel
 
 ### Description
-
+The tire will go over this wheel. This is one of the last parts to the caster. 
 ### Evidence
 https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/748eeb9164d24b5d22324fea
 ### Image
@@ -103,6 +103,7 @@ https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d021661599
 
 ### Reflection
 I practiced filleting, revolving, and circular patterns.
+
 ---
 
 
