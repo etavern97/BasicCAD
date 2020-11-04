@@ -96,11 +96,13 @@ WIth this project, I learned some dimensioning tricks, such as how to dimension 
 ### Description
 
 ### Evidence
-
+https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/748eeb9164d24b5d22324fea
 ### Image
 
-### Reflection
+![Part 5 Wheel](Images/Part5wheelscreenshot.png)
 
+### Reflection
+I practiced filleting, revolving, and circular patterns.
 ---
 
 
