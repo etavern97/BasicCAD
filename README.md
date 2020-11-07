@@ -123,3 +123,33 @@ https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d021661599
 
 ### Reflection
 These quick tiny parts were pretty simple. I did learn how to carve into a cylinder on the axle and that was cool. 
+
+---
+
+## Sub-Assembly
+
+### Description
+This assembly connected the bearings to the axle, to the wheel, to the tire. 
+### Evidence
+https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/748eeb9164d24b5d22324fea
+### Image
+
+![Sub Assembly!](Images/Subassembly.png)
+
+### Reflection
+I learned about revolute mates, how they fasten while still allowing the part to turn.
+
+---
+
+
+## Wheel
+
+### Description
+
+### Evidence
+https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/748eeb9164d24b5d22324fea
+### Image
+
+![Part 5 Wheel](Images/Par5wheelscreenshot.png)
+
+### Reflection
