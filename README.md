@@ -110,9 +110,16 @@ I practiced filleting, revolving, and circular patterns.
 ## AxleCollarBearings
 
 ### Description
-
+These tiny parts are going to be what connects the wheel to the base/mount of the caster. 
 ### Evidence
-
+https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/ca8a16197a28e84d1f4b825b
 ### Image
 
+![Part 6-7 axel and collar](Images/axleandcollar.png)
+
+![Part 8 bearing](Images/wheelwithbearing.png)
+
+![Part 9 big bearing](Images/bigbearing.png)
+
 ### Reflection
+These quick tiny parts were pretty simple. I did learn how to carve into a cylinder on the axle and that was cool. 
