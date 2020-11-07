@@ -145,7 +145,7 @@ I learned about revolute mates, how they fasten while still allowing the part to
 ## Final Assembly!
 
 ### Description
-
+This is where I brought the parts together. The mates that I used were parallel, fastened, and revolute. 
 ### Evidence
 https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/748eeb9164d24b5d22324fea
 ### Image
@@ -153,3 +153,4 @@ https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d021661599
 ![Final caster assembled](Images/Casterassembly.png)
 
 ### Reflection
+During this assembly I got more familiar with mates and how they work. Onshapes makes it som much easier to drop in screws/pins/bolts/nuts and to connect part with just a single mate. 
