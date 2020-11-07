@@ -142,7 +142,7 @@ I learned about revolute mates, how they fasten while still allowing the part to
 ---
 
 
-## Wheel
+## Final Assembly!
 
 ### Description
 
@@ -150,6 +150,6 @@ I learned about revolute mates, how they fasten while still allowing the part to
 https://cad.onshape.com/documents/a58b07a1dda14272a9127e53/w/5ffd47096d0216615997d739/e/748eeb9164d24b5d22324fea
 ### Image
 
-![Part 5 Wheel](Images/Par5wheelscreenshot.png)
+![Final caster assembled](Images/Casterassembly.png)
 
 ### Reflection
